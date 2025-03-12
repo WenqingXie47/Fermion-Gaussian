@@ -61,6 +61,7 @@ def from_mode_unitary_full(one_body_unitary):
         combinations = list(itertools.combinations(range(n_modes), particle_number))
         combinations = np.array(combinations)
         dim_subspace = len(combinations)
+        # parity = (-1)**particle_number
         for i in range(dim_subspace):
             modes_out = combinations[i]
             index_out = np.sum(2**modes_out)
