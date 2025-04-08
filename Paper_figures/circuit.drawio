@@ -4237,6 +4237,12 @@
             <mxPoint x="650" y="4180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YWh4VRzpoYGfGISZL7wM-66" value="vertical cut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="4010.63" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YWh4VRzpoYGfGISZL7wM-67" value="tilted cut" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="4038.75" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
