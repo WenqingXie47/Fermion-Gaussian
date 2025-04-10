@@ -5592,7 +5592,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rTXm6IgqiVUD-cmoJzOk-68" value="$$U&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;$$&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="3679.49" width="80" height="80" as="geometry" />
+          <mxGeometry x="-120" y="3680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rTXm6IgqiVUD-cmoJzOk-69" value="" style="group;fontSize=19;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-80" y="3639.49" height="40" as="geometry" />
