@@ -7121,6 +7121,15 @@
             <mxPoint x="-500" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="b49u7q-GLadRHcR9XfW0-34" value="$$A$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b49u7q-GLadRHcR9XfW0-35" value="$$B$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b49u7q-GLadRHcR9XfW0-36" value="$$C$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
