@@ -8048,6 +8048,12 @@
             <mxPoint x="-195" y="6160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AfRPTGciE6w7d5eISeNb-187" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$I_{a}$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="6210" width="30" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AfRPTGciE6w7d5eISeNb-189" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;$$I_{b}$$&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="110" y="6210" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
