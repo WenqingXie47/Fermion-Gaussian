@@ -31,7 +31,7 @@ if __name__ == "__main__":
     n_contracted_modes = 2
     U = unitary_group.rvs(n_modes)
 
-    UA1 = contract_fermi(U,n_contracted_modes)
+    UA1 = contract2(U,n_contracted_modes)
     UA2 = contract(U,n_contracted_modes)
 
     id = UA1 @ UA1.conj().T
@@ -42,6 +42,6 @@ if __name__ == "__main__":
 
     u2 = U
     for i in range(n_contracted_modes):
-        u1 = contract_fermi(U,i+1)
-        u2 = contract_fermi(u2, 1)
+        u1 = contract(U,i+1)
+        u2 = contract(u2, 1)
         assert(np.allclose(u1,u2))

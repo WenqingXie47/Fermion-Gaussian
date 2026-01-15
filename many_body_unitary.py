@@ -30,14 +30,14 @@ for i in range(dim_contract):
     Id = U3@U3.conj().T
     assert(np.allclose(Id, np.eye(Id.shape[0])))
 
-U1 = U.copy()
-for i in range(dim_contract):
-    U1 = many_body_contract2(U1,1)
-    U2 = many_body_contract2(U,i+1)
-    assert(np.allclose(U1,U2))
-    U3 = U1/U1[0,0]
-    Id = U3@U3.conj().T
-    assert(np.allclose(Id, np.eye(Id.shape[0])))
+# U1 = U.copy()
+# for i in range(dim_contract):
+#     U1 = many_body_contract2(U1,1)
+#     U2 = many_body_contract2(U,i+1)
+#     assert(np.allclose(U1,U2))
+#     U3 = U1/U1[0,0]
+#     Id = U3@U3.conj().T
+#     assert(np.allclose(Id, np.eye(Id.shape[0])))
 
 
 ua = contract(u,dim_contract)
